@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.Vistas.ElementoPag"
+             Title="Modificar o Eliminar Usuario"  BackgroundImage="fondo1.png">
+    <ScrollView>
+        <StackLayout Spacing="10" Padding="10">
+
+            <Label Text="Nombre: " FontAttributes="Bold"/>
+            <Entry x:Name="Nombre" Placeholder="Nombre" Text="{Binding Nombre}" BackgroundColor="White"/>
+            <Label Text="Usuario: " FontAttributes="Bold"/>
+            <Entry x:Name="Usuario" Placeholder="Usuario" Text="{Binding Usuario}" BackgroundColor="White"/>
+            <Label Text="Contraseña: " FontAttributes="Bold"/>
+            <Entry x:Name="Contrasenia" Placeholder="Contraseña" Text="{Binding Contrasenia}" BackgroundColor="White"/>
+           
+            <StackLayout IsVisible="{Binding IsStopVisible}" >
+                <Label Text="Autorización: " FontAttributes="Bold"/>
+                <Entry Placeholder="Elige Autorización"  
+                   HeightRequest="45"  BackgroundColor="White"
+                   x:Name="Autoriza"  Text="{Binding Autorizacion}"/>
+            </StackLayout  >
+            <Button Text="Actualizar" Clicked="btn_actualizar" BackgroundColor="LawnGreen" BorderColor="Black"
+                    WidthRequest="170" HeightRequest="45" HorizontalOptions="Center" Margin="20,35,20,10"/>
+            <Button Text="Eliminar" Clicked="btn_eliminar" BackgroundColor="#ED9C9C" IsVisible="{Binding IsStopVisible}"
+                    WidthRequest="170" HeightRequest="45" HorizontalOptions="Center" Margin="20,10,20,20"
+                    BorderColor="Black"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

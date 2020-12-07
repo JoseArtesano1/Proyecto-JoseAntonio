@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.DatosTrabPag"  BackgroundImage="fondo1.png">
+    <ContentPage.Content>
+        <StackLayout>
+        <Frame BorderColor="Gray" BackgroundColor="White"
+       CornerRadius="5"
+       Padding="8">
+            <StackLayout>
+                    <Label x:Name="nombre" Text="{Binding Nombre}"
+                       FontSize="Medium"
+                       FontAttributes="Bold" />
+                <BoxView Color="Gray"
+                    HeightRequest="2"
+                    HorizontalOptions="Fill" />
+                    <Label Text="Dirección: "  FontAttributes="Bold"/>
+                    <Label x:Name="direccion"  Text= "{Binding Direccion}"/>
+                    <Label Text="Teléfono: " FontAttributes="Bold"/>
+                    <Label x:Name="telefono"  Text="{Binding Telefono}"/>
+                    <Label Text="Fecha Alta: " FontAttributes="Bold"/>
+                    <Label x:Name="fechaAlta" Text="{Binding FechaAlta}"/>
+                    <Label Text="Fecha caducidad Dni/Nie: " FontAttributes="Bold"/>
+                    <Label x:Name="fechadni" Text="{Binding FechaDni}"/>
+                    <Label Text="Dni/Nie: " FontAttributes="Bold"/>
+                    <Label x:Name="dni" Text="{Binding Dni}"/>
+                    <Label Text="Número Seguridad Social: " FontAttributes="Bold"/>
+                    <Label x:Name="seguridad" Text="{Binding Nseguridads}"/>
+                    <Label Text="Fecha caducidad Reconocimiento Médico: " FontAttributes="Bold"/>
+                    <Label x:Name="fechamedico" Text="{Binding FechaMedico}"/>
+            </StackLayout>
+            </Frame >
+            <StackLayout   Orientation="Horizontal" HorizontalOptions="Center" Padding="10" >
+                <Button Text="Ver Cursos" x:Name="btncsos" Clicked="btn_cursos" BackgroundColor="LawnGreen"
+                        WidthRequest="170" HeightRequest="45" HorizontalOptions="Start" Margin="20,25,20,10"
+                        BorderColor="Black"/>
+                <Button Text="Ver Dias" Clicked="btn_dias" BackgroundColor="#FFBA00"
+                        WidthRequest="170" HeightRequest="45" HorizontalOptions="Center" Margin="10,25,20,10"
+                        BorderColor="Black"/>
+                <Button Text="Ver Epis" Clicked="btn_epis" BackgroundColor="#32D8CF"
+                        WidthRequest="170" HeightRequest="45" HorizontalOptions="End" Margin="10,25,20,10"
+                        BorderColor="Black"/>
+            </StackLayout>
+        </StackLayout>
+        
+    </ContentPage.Content>
+          
+    <ContentPage.ToolbarItems>
+       
+        <ToolbarItem Text="Modificar" Clicked="ToolbarItem_Clicked1"/>
+    </ContentPage.ToolbarItems>
+</ContentPage>

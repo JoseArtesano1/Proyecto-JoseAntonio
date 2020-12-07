@@ -1,0 +1,153 @@
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.deps.json
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfoInputs.cache
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfo.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\ConsultaRegistroPag.xaml.g.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\ElementoPag.xaml.g.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\LoginPag.xaml.g.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\MenuPage.xaml.g.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\RegistroPag.xaml.g.cs
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csproj.CoreCompileInputs.cache
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
+C:\Users\Jose Antonio\Documents\DEFINITIVO\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\ConsultaRegistroPag.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\ElementoPag.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\LoginPag.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\MenuPage.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\RegistroPag.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfoInputs.cache
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfo.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csproj.CoreCompileInputs.cache
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb
+D:\ProyectoJose\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.deps.json
+D:\ProyectoJose\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll
+D:\ProyectoJose\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\ProyectoJose\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.pdb
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\Vistas\HomePage.xaml.g.cs
+D:\ProyectoJose\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.deps.json
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.pdb
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CambioCurso.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CursosPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoCurso.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoTrabCurso.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\TrabajadorCursoPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\CambioTipoDia.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTipoDia.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTrabDia.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TipoDiasPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TrabajadorDiaPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\CambioEpi.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\EpisPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoEpi.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoTrabEpi.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\TrabajadorEpiPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\DatosTrabPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\ModInfoTrabajador.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\NuevoTrabajador.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\TrabajadoresPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ConsultaRegistroPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ElementoPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\HomePage.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\LoginPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\MenuPage.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\RegistroPag.xaml.g.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfoInputs.cache
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfo.cs
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csproj.CoreCompileInputs.cache
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.deps.json
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.pdb
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CambioCurso.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CursosPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoCurso.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoTrabCurso.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\TrabajadorCursoPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\CambioTipoDia.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTipoDia.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTrabDia.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TipoDiasPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TrabajadorDiaPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\CambioEpi.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\EpisPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoEpi.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoTrabEpi.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\TrabajadorEpiPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\DatosTrabPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\ModInfoTrabajador.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\NuevoTrabajador.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\TrabajadoresPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ConsultaRegistroPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ElementoPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\HomePage.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\LoginPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\MenuPage.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\RegistroPag.xaml.g.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfoInputs.cache
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfo.cs
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csproj.CoreCompileInputs.cache
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\XamlC.stamp
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.deps.json
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.pdb
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CambioCurso.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CursosPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoCurso.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoTrabCurso.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\TrabajadorCursoPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\CambioTipoDia.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTipoDia.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTrabDia.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TipoDiasPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TrabajadorDiaPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\CambioEpi.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\EpisPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoEpi.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoTrabEpi.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\TrabajadorEpiPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\DatosTrabPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\ModInfoTrabajador.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\NuevoTrabajador.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\TrabajadoresPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ConsultaRegistroPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ElementoPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\HomePage.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\LoginPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\MenuPage.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\RegistroPag.xaml.g.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfoInputs.cache
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfo.cs
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csproj.CoreCompileInputs.cache
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\XamlC.stamp
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.TrabajadorEpiPag" BackgroundImage="fondo1.png">
+    <ContentPage.Content>
+
+        <CollectionView   x:Name="episCollection"  IsGrouped="False" ItemsUpdatingScrollMode="KeepItemsInView" SelectionMode="None">
+            <CollectionView.Header>
+                <StackLayout BackgroundColor="LightGray">
+                    <Label Margin="10,0,0,0"
+                   x:Name="listaEpi"
+                   FontSize="Medium"
+                   FontAttributes="Bold" />
+                </StackLayout>
+            </CollectionView.Header>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+
+                    <StackLayout Padding="10">
+
+                        <Frame HasShadow="False" CornerRadius="5" BorderColor="Black" BackgroundColor="White">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Nombre: " FontAttributes="Bold"/>
+                                <Label  Text="{Binding nombreEpi}"/>
+                                <Label Text="Fecha de entrega: " FontAttributes="Bold"/>
+                                <Label  Text="{Binding FechaE}"/>
+                                <Button Image="papelera.png" WidthRequest="60" HeightRequest="55"
+                                        HorizontalOptions="End" Clicked="btn_borrar"/>
+                            </StackLayout>
+                        </Frame>
+                       
+                    </StackLayout>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+            <CollectionView.EmptyView>
+                <StackLayout>
+                    <Label VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+                           Text="Sin Información"/>
+                </StackLayout>
+            </CollectionView.EmptyView>
+
+        </CollectionView>
+
+    </ContentPage.Content>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="ToolbarItem_Clicked"/>
+        
+    </ContentPage.ToolbarItems>
+</ContentPage>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.Vistas.DatosTrabPag" >
+                 
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <Grid BackgroundColor="#003DEE30">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="150" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid>
+                    <Button Text="SALIR" FontAttributes="Bold" Image="salir1.png" BackgroundColor="#A3FCF9" 
+                            BorderColor="Black" Clicked="btn_Cerrar"
+                  WidthRequest="30" HeightRequest="40"  Margin="100,40,100,40"/>
+                    <StackLayout Padding="0,18,0,0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                        
+                       
+                    </StackLayout>
+                </Grid>
+                <StackLayout Grid.Row="1" Spacing="15">
+                    <ListView x:Name="navigationDrawerList"
+                  RowHeight="60"
+                  SeparatorVisibility="None"
+                  BackgroundColor="#e8e8e8"
+                  ItemSelected="OnMenuItemSelected">
+
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout>
+                                        <!-- Main design for our menu items -->
+                                        <StackLayout VerticalOptions="FillAndExpand"
+                             Orientation="Horizontal"
+                             Padding="20,10,0,10"
+                             Spacing="20">
+
+                                            <Image Source="{Binding Icon}"
+                         WidthRequest="30"
+                         HeightRequest="30"
+                         VerticalOptions="Center" />
+
+                                            <Label Text="{Binding Title}"
+                         FontSize="Medium"
+                         VerticalOptions="Center"
+                         TextColor="Black"/>
+                                        </StackLayout>
+                                        <BoxView HeightRequest="1" BackgroundColor="Gray"/>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+            </Grid>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

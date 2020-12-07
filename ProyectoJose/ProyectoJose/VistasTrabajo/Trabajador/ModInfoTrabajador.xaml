@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.ModInfoTrabajador"  BackgroundImage="fondo1.png">
+    <ScrollView>
+        <StackLayout Spacing="10" Padding="10">
+
+            <Label Text="Nombre: " FontAttributes="Bold"/>
+            <Entry x:Name="nombre" Placeholder="Nombre" Text="{Binding Nombre}" BackgroundColor="White"/>
+            <Label Text="Dni/Nie: " FontAttributes="Bold"/>
+            <Entry x:Name="dni" Placeholder="Dni/Nie" Text="{Binding Dni}" BackgroundColor="White"/>
+            <Label Text="N.Seguridad Social: " FontAttributes="Bold"/>
+            <Entry x:Name="seguridad" Placeholder="Número S.Social" Text="{Binding Contrasenia}" BackgroundColor="White"/>
+            <Label Text="Dirección: " FontAttributes="Bold"/>
+            <Entry x:Name="direccion" Placeholder="Dirección" Text="{Binding Direccion}" BackgroundColor="White"/>
+            <Label Text="Telefono: " FontAttributes="Bold"/>
+            <Entry x:Name="telefono" Placeholder="Teléfono" Text="{Binding Telefono}" BackgroundColor="White"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="10">
+                <Label  Margin="0, 0, 100, 10"  Text="Fecha de Alta:  "  FontAttributes="Bold"/>
+                <Label Margin="50, 0, 110, 10" HorizontalOptions="Center" Text="Fecha Reconocimiento Médico:  " FontAttributes="Bold"/>
+                <Label Margin="30, 0, 0, 10"  Text="Fecha Caducidad Dni/Nie:  " FontAttributes="Bold"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="10">
+          
+                <DatePicker x:Name="FAlta" Margin="5, 0, 0, 5" BackgroundColor="White"
+                        MinimumDate="01/01/2019"
+                        Date="{Binding FechaAlta, Mode=TwoWay}" Format="MM/dd/yyyy" 
+                        MaximumDate="12/31/2030"  HorizontalOptions="Start" />
+            
+
+                <DatePicker x:Name="Fmedico" Margin="115, 0, 0, 5" BackgroundColor="White"
+                        MinimumDate="01/01/2019"
+                        Date="{Binding FechaMedico, Mode=TwoWay}" Format="MM/dd/yyyy"
+                        MaximumDate="12/31/2030"  HorizontalOptions="Center"/>
+          
+                <DatePicker x:Name="Fdni" Margin="115, 0, 0, 5" BackgroundColor="White"
+                        MinimumDate="01/01/1950"
+                        MaximumDate="12/31/2035"
+                        Date="{Binding FechaDni, Mode=TwoWay}" Format="dd/MM/yyyy" 
+                         HorizontalOptions="End"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="10" >
+        <Button Text="Actualizar" Clicked="btn_actualizar" BackgroundColor="LawnGreen" BorderColor="Black"
+                 WidthRequest="170" HeightRequest="45" HorizontalOptions="Start" Margin="10,15,20,10" />
+            <Button Text="Eliminar" Clicked="btn_eliminar" BackgroundColor="Red" BorderColor="Black"
+                  WidthRequest="170" HeightRequest="45" HorizontalOptions="End" Margin="10,15,20,10" />
+        </StackLayout>
+            
+        </StackLayout>
+    </ScrollView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Salir" Clicked="Salir_Clicked" />
+      
+    </ContentPage.ToolbarItems>
+</ContentPage>

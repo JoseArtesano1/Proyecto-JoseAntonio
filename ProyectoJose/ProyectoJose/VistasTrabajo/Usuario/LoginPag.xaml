@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.Vistas.LoginPag"
+             BackgroundImage="fondo.png">
+    <ScrollView>
+        <StackLayout Margin="20,35,20,20">
+            <Entry Placeholder="Introduce tu usuario" Keyboard="Email" x:Name="usuario" BackgroundColor="White"
+                    WidthRequest="250" HeightRequest="50" HorizontalOptions="Center"/>
+            <Entry Placeholder="Introduce tu contraseña" IsPassword="True" x:Name="contra" BackgroundColor="White"
+                    WidthRequest="250" HeightRequest="50" HorizontalOptions="Center"/>
+            <Button Text="Iniciar sesión" BackgroundColor="#039393" TextColor="White" Clicked="btn_login"
+                WidthRequest="170" HeightRequest="45" HorizontalOptions="Center" Margin="20,35,20,20" />
+        
+           
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.NuevoTrabDia"
+             Title="ASIGNACIÓN DE DÍAS" BackgroundImage="fondo1.png">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="15" >
+            <Label Margin="10, 30, 10, 30" Text="TIPO DE DIAS DISPONIBLES:  "  FontAttributes="Bold" />
+            <Picker x:Name="picker" BackgroundColor="White"
+                    
+                   ItemsSource="{Binding TipoList}"
+                   ItemDisplayBinding="{Binding Denominacion}"
+                     
+                  SelectedItem="{Binding SelectedTipo}">
+
+            </Picker>
+            <Label Margin="10, 30, 10, 30" Text="FECHA DE INICIO:  "  HorizontalOptions="Center" FontAttributes="Bold" />
+            <DatePicker x:Name="Finicio" HorizontalOptions="Center" BackgroundColor="White"
+                        MinimumDate="01/01/2020"
+                        Date="{Binding FechaInicio, Mode=TwoWay}" Format="MM/dd/yyyy"
+                        MaximumDate="12/31/2030"  />
+            <Label Margin="10, 30, 10, 30" Text="FECHA FINAL:  " HorizontalOptions="Center" FontAttributes="Bold"/>
+            <DatePicker x:Name="Ffin" HorizontalOptions="Center" BackgroundColor="White"
+                        MinimumDate="01/01/1950"
+                        MaximumDate="12/31/2035"
+                        Date="{Binding FechaFin, Mode=TwoWay}" Format="MM/dd/yyyy" />
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="15" >
+                <Button Text="Guardar" Clicked="Save_Clicked" BackgroundColor="LawnGreen"
+                 WidthRequest="170" HeightRequest="45" HorizontalOptions="Start" Margin="10,18,20,10" />
+
+            </StackLayout>
+        </StackLayout>
+      
+    </ContentPage.Content>
+    <ContentPage.ToolbarItems>
+       
+        <ToolbarItem Text="Salir" Clicked="Cancel_Clicked"/>
+    </ContentPage.ToolbarItems>
+</ContentPage>

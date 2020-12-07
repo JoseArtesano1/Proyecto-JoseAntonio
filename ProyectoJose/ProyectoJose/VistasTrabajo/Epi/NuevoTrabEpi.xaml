@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.NuevoTrabEpi"
+             Title="ASIGNACIÓN DE EPIS" BackgroundImage="fondo1.png">
+    <ContentPage.Content>
+        <StackLayout Margin="20, 20, 20, 200">
+            <Label Margin="10, 20, 10, 20"  Text="EPIS DISPONIBLES:  "  FontAttributes="Bold"/>
+            <Picker x:Name="picker" BackgroundColor="White"
+                   
+                   ItemsSource="{Binding EpiList}"
+                   ItemDisplayBinding="{Binding Nombre}"
+                     
+                   SelectedItem="{Binding SelectedEpi}"  >
+                 
+            </Picker>
+            
+                <Label Margin="10, 20, 10, 20"  FontAttributes="Bold" Text="FECHA DE ENTREGA:  "/>
+
+            <DatePicker x:Name="Fentrega" HorizontalOptions="Start" BackgroundColor="White"
+                        MinimumDate="01/01/2020"
+                        Date="{Binding FechaInicio, Mode=TwoWay}" Format="MM/dd/yyyy"
+                        MaximumDate="12/31/2030"  />
+            
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="10" >
+                <Button Text="Guardar" Clicked="Save_Clicked" BackgroundColor="LawnGreen"
+                 WidthRequest="170" HeightRequest="45" HorizontalOptions="Start" Margin="10,15,20,10" />
+                
+            </StackLayout>
+
+        </StackLayout>
+        
+
+    </ContentPage.Content>
+    <ContentPage.ToolbarItems>
+        
+        <ToolbarItem Text="Salir" Clicked="Cancel_Clicked"/>
+    </ContentPage.ToolbarItems>
+</ContentPage>

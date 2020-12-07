@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.TrabajadorDiaPag" BackgroundImage="fondo1.png">
+    <ContentPage.Content>
+
+        <CollectionView   x:Name="diasCollection"  IsGrouped="False" ItemsUpdatingScrollMode="KeepItemsInView" SelectionMode="None">
+            <CollectionView.Header>
+                <StackLayout BackgroundColor="LightGray">
+                    <Label Margin="10,0,0,0"
+                  x:Name="listaDia"
+                   FontSize="Medium"
+                   FontAttributes="Bold" />
+                </StackLayout>
+            </CollectionView.Header>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+
+                    <StackLayout Padding="12">
+
+                        <Frame HasShadow="False" CornerRadius="5" BorderColor="Black" BackgroundColor="White">
+                            <StackLayout Orientation="Horizontal"  >
+                                
+                                <Label  Text="{Binding FechaPrimera}"/>
+                                <Label Text="{Binding FechaSegunda}"/>
+                                <Label Text="Total dias Naturales: " FontAttributes="Bold"/>
+                                <Label Text="{Binding  Total}"/>
+                                <Label Text="Total dias Laborales: " FontAttributes="Bold"/>
+                                <Label Text="{Binding  TotalNoLaboral}"/>
+                                <Label Text="Importe dias Naturales: " FontAttributes="Bold"/>
+                                <Label Text="{Binding ImporteDias}"/>
+                                <Button Image="papelera.png" WidthRequest="60" HeightRequest="55" HorizontalOptions="End" Clicked="btn_borrar"  />
+                            </StackLayout>
+                        </Frame>
+
+                    </StackLayout>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+            <CollectionView.EmptyView>
+                <StackLayout>
+                    <Label VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+                           Text="Sin Información"/>
+                </StackLayout>
+            </CollectionView.EmptyView>
+
+        </CollectionView>
+
+    </ContentPage.Content>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="ToolbarItem_Clicked"/>
+
+    </ContentPage.ToolbarItems>
+</ContentPage>

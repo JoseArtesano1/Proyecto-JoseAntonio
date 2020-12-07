@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.NuevoTipoDia"
+             Title="NUEVO TIPO DIA" BackgroundImage="fondo1.png">
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="30">
+            <Label Text="DENOMINACIÓN: " FontAttributes="Bold"/>
+            <Entry Placeholder="Introduce  nombre" x:Name="Nombre"  Text="{Binding Denominacion}" BackgroundColor="White"/>
+            <Label Text="IMPORTE: " FontAttributes="Bold"/>
+            <Entry Placeholder="Escribe importe" Keyboard="Email" x:Name="Dinero" Text="{Binding Importe}" BackgroundColor="White" />
+            
+            <StackLayout Orientation="Vertical" HorizontalOptions="Center" Margin="6, 5, 6, 10" >
+                <Button Text="Agregar" Clicked="Btn_agregar" BackgroundColor="Azure" BorderColor="Black"
+                        WidthRequest="170" HeightRequest="45" HorizontalOptions="Start" Margin="10,15,20,10"></Button>
+
+                <Button Text="Cargar Festivos" Clicked="Btn_cargar" BackgroundColor="LimeGreen"
+                        IsVisible="{Binding IsStopVisible}" BorderColor="Black"
+                    WidthRequest="170" HeightRequest="45" HorizontalOptions="End" Margin="10,15,20,10"></Button>
+                <Label Text="ARCHIVO: " x:Name="lbl" Margin="10,15,20,10" IsVisible="{Binding IsStopVisible}" />
+                <Button Text="Borrar Festivos" Clicked="Btn_Borrar" BackgroundColor="#CD8F32"
+                        IsVisible="{Binding IsStopVisible}" BorderColor="Black"
+                    WidthRequest="170" HeightRequest="45" HorizontalOptions="End" Margin="10,15,20,10"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

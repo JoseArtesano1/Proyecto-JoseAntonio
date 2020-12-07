@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:ProyectoJose" xmlns:local1="clr-namespace:ProyectoJose.VistasTrabajo"
+              mc:Ignorable="d"
+             x:Class="ProyectoJose.VistasTrabajo.TrabajadoresPag" BackgroundImage="fondo1.png">
+            
+              
+         <d:ContentPage.BindingContext>     
+          <local1:TrabajadoresPag/>
+         </d:ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        
+        <CollectionView x:Name="trabCollectionView"                        
+                        SelectionChanged="trabCollectionView_SelectionChanged"
+                        SelectionMode="Single">
+            <CollectionView.Header>
+                <StackLayout BackgroundColor="LightGray">
+                    <Label Margin="10,0,0,0"
+                   Text="LISTADO TRABAJADORES"
+                   FontSize="Medium"
+                   FontAttributes="Bold" />
+                </StackLayout>
+            </CollectionView.Header>
+            <CollectionView.ItemTemplate>
+              
+                <DataTemplate>
+                     
+                    <StackLayout Padding="10">
+                        <StackLayout Padding="10">
+                            <Label Text="TRABAJADOR"/>
+                        </StackLayout>
+                       
+                        <Frame HasShadow="False" BorderColor="Black" CornerRadius="5" BackgroundColor="White">
+                            
+                            <StackLayout Orientation="Horizontal">
+
+                                <Label Text="Nombre: " FontAttributes="Bold"/>
+                                <Label Text="{Binding Nombre}"/>
+                                <Label Text="Dni/Nie: " FontAttributes="Bold"/>
+                                <Label Text="{Binding Dni}"/>
+                                <Label Text="Teléfono: " FontAttributes="Bold"/>
+                                <Label Text="{Binding Telefono}"/>
+                                    
+                            </StackLayout>
+                               
+                        </Frame>
+                            
+                    </StackLayout>
+                        
+                </DataTemplate>
+                   
+            </CollectionView.ItemTemplate>
+                
+            <CollectionView.EmptyView>
+                <StackLayout>
+                    <Label VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+                           Text="Sin trabajadores"/>
+                </StackLayout>
+            </CollectionView.EmptyView>
+        </CollectionView>
+         
+    </ContentPage.Content>
+              
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="ToolbarItem_Clicked"/>
+       
+    </ContentPage.ToolbarItems>
+
+</ContentPage>

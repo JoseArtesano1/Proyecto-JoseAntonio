@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local1="clr-namespace:ProyectoJose.VistasTrabajo"
+              mc:Ignorable="d"
+             x:Class="ProyectoJose.VistasTrabajo.TipoDiasPag" BackgroundImage="fondo1.png">
+    <d:ContentPage.BindingContext>
+        <local1:TipoDiasPag/>
+    </d:ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+        <CollectionView x:Name="ListaTipoDias" 
+                 SelectionChanged="TipoCollectionView_SelectionChanged" SelectionMode="Single">
+                <CollectionView.Header>
+                    <StackLayout BackgroundColor="LightGray">
+                        <Label Margin="10,0,0,0"
+                   Text="Tipos Días"
+                   FontSize="Medium"
+                   FontAttributes="Bold" />
+                    </StackLayout>
+                </CollectionView.Header>
+                <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Frame HasShadow="False" BorderColor="Black" CornerRadius="5" BackgroundColor="White">
+                            <StackLayout Orientation="Horizontal">
+                                    <Label Text="Nombre: "/>
+                                    <Label Text="{Binding Denominacion }"/>
+                                    <Label Text="Importe: "/>
+                                    <Label Text="{Binding Importe }"/>
+                                
+                            </StackLayout>
+                        </Frame>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.Vistas.RegistroPag"
+             Title="Nuevo Registro"  BackgroundImage="fondo1.png">
+    <ScrollView>
+        <StackLayout Margin="20,35,20,20">
+            <Label Text="Nombre: " FontAttributes="Bold"/>
+            <Entry Placeholder="Introduce tu nombre" x:Name="Nombre" BackgroundColor="White"
+                   HeightRequest="45"  Text="{Binding Nombre}"/>
+            <Label Text="Usuario: " FontAttributes="Bold"/>
+            <Entry Placeholder="Escribe tu usuario" Keyboard="Email" x:Name="Usuario" BackgroundColor="White"
+                   HeightRequest="45"  Text="{Binding Usuario}" />
+            <Label Text="Contraseña: " FontAttributes="Bold"/>
+            <Entry Placeholder="Elige una contraseña" IsPassword="True" 
+                   HeightRequest="45"  BackgroundColor="White"
+                   x:Name="Contrasenia"  Text="{Binding Contrasenia}"/>
+            <Label Text="Autorización: " FontAttributes="Bold"/>
+            <Entry Placeholder="Elige Autorización"  
+                   HeightRequest="45"  BackgroundColor="White"
+                   x:Name="Autoriza"  Text="{Binding Autorizacion}"/>
+            <Button Text="Agregar"  WidthRequest="170" HeightRequest="45" HorizontalOptions="Center" BorderColor="Black"
+                    Clicked="Btn_agregar" BackgroundColor="Azure"  Margin="20,35,20,20"></Button>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

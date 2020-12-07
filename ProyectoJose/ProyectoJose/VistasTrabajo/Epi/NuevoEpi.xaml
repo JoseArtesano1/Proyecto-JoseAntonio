@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoJose.VistasTrabajo.NuevoEpi"
+             Title="NUEVO EPI" BackgroundImage="fondo1.png">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="20">
+            <Label Text="NOMBRE: " FontAttributes="Bold" Margin="5,20,20,15"/>
+            <Entry  Placeholder="Enter Epi here" x:Name="nombreCell"  BackgroundColor="White"/>
+               
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="20" >
+                <Button Text="Guardar" Clicked="Save_Clicked" BackgroundColor="LawnGreen" BorderColor="Black"
+                 WidthRequest="170" HeightRequest="45" HorizontalOptions="Start" Margin="10,15,20,10" />
+            </StackLayout>
+        </StackLayout>
+        
+    </ContentPage.Content>
+    
+    <ContentPage.ToolbarItems>
+        
+        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+</ContentPage>
