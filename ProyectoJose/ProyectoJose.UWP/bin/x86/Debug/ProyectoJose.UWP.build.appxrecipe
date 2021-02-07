@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=59591f1a-4e9e-4690-8e2f-19639b94d927</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\ProyectoJose.UWP.exe">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\ProyectoJose.UWP.exe">
       <PackagePath>entrypoint\ProyectoJose.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose Antonio\.nuget\packages\documentformat.openxml\2.11.3\lib\netstandard2.0\DocumentFormat.OpenXml.dll">
@@ -634,7 +634,7 @@
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll">
       <PackagePath>ProyectoJose.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jose Antonio\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
@@ -646,161 +646,161 @@
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\xamarin.forms\4.6.0.1141\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\fondo.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\fondo.png">
       <PackagePath>fondo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\fondo1.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\fondo1.png">
       <PackagePath>fondo1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\fondo2.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\fondo2.png">
       <PackagePath>fondo2.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\papelera.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\papelera.png">
       <PackagePath>papelera.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\casco.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\casco.png">
       <PackagePath>Recursos\casco.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\formacion.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\formacion.png">
       <PackagePath>Recursos\formacion.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\nuevoperiodo.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\nuevoperiodo.png">
       <PackagePath>Recursos\nuevoperiodo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\nuevousuario.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\nuevousuario.png">
       <PackagePath>Recursos\nuevousuario.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\papelera.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\papelera.png">
       <PackagePath>Recursos\papelera.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\portada1.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\portada1.png">
       <PackagePath>Recursos\portada1.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\tipoperiodo.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\tipoperiodo.png">
       <PackagePath>Recursos\tipoperiodo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\trabajador.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\trabajador.png">
       <PackagePath>Recursos\trabajador.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\usuario.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Recursos\usuario.png">
       <PackagePath>Recursos\usuario.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\salir1.png">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\salir1.png">
       <PackagePath>salir1.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\ProyectoJose.UWP.xr.xml">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\ProyectoJose.UWP.xr.xml">
       <PackagePath>ProyectoJose.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
@@ -812,10 +812,10 @@
     <AppxPackagedFile Include="C:\Users\Jose Antonio\.nuget\packages\microsoft.ui.xaml\2.3.191211002\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\Core\ProyectoJose.UWP.exe">
+    <AppxPackagedFile Include="D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.UWP\bin\x86\Debug\Core\ProyectoJose.UWP.exe">
       <PackagePath>ProyectoJose.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

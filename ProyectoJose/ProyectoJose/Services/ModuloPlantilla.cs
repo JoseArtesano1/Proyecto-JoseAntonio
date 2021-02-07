@@ -60,9 +60,9 @@ namespace ProyectoJose.Services
                                             new Text(""))),
                                     new Paragraph(new ParagraphProperties(new SpacingBetweenLines() { After = "60" }),
                                         new Run(
-                                            new Text("EL TRABAJADOR " + nombre.ToUpper() + "CON DNI/NIE " + dni +
-                                            "QUE DESARROLLA SU ACTIVIDAD PROFESIONAL COMO TRABAJADOR " +
-                                            "EN LA EMPRESA JOSE ANTONIO, SL RECONOCE QUE: "
+                                            new Text("EL TRABAJADOR " + nombre.ToUpper() + " CON DNI/NIE " + dni +
+                                            " QUE DESARROLLA SU ACTIVIDAD PROFESIONAL COMO TRABAJADOR " +
+                                            " EN LA EMPRESA JOSE ANTONIO, SL RECONOCE QUE: "
                                             ))),
 
                                        new Paragraph(

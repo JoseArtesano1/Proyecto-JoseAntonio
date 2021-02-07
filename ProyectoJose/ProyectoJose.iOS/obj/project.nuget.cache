@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TIVTmnBwF7ANd9T5W8XAp5B4sAjy7mAzNVXEZYjw2eFfdgJG5V5GnS9dGJlotL8Vy1itM4Zpeai5WWTNcAAZww==",
+  "dgSpecHash": "W47oTDftuTEK/O8YRsoZ6g7i72/SwziLkqoxM36Kc9OxZ+Ml4+NAwixVPelBmhoX/5abDNApOwsfcE3y3/2AbA==",
   "success": true,
-  "projectFilePath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.iOS\\ProyectoJose.iOS.csproj",
+  "projectFilePath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.iOS\\ProyectoJose.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Antonio\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
     "C:\\Users\\Jose Antonio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

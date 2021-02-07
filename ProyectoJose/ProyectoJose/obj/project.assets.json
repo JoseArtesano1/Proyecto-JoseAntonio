@@ -1988,11 +1988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
+      "projectUniqueName": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
       "projectName": "ProyectoJose",
-      "projectPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
+      "projectPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
       "packagesPath": "C:\\Users\\Jose Antonio\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\obj\\",
+      "outputPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

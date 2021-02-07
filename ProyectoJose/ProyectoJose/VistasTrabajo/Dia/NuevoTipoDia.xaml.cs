@@ -121,7 +121,7 @@ namespace ProyectoJose.VistasTrabajo
                                     await Context.SaveChangesAsync();
                                         //  await Navigation.PopModalAsync();
                                         lbl.Text = file.FileName;
-                                        await DisplayAlert("Nuevo Festivo", "Festivos guardados", "Ok");
+                                      //  await DisplayAlert("Nuevo Festivo", "Festivos guardados", "Ok");
                                     }
                                 else { await DisplayAlert("Nuevo Festivo", "Festivo repetido", "Ok"); }
 
@@ -157,9 +157,9 @@ namespace ProyectoJose.VistasTrabajo
                     {
                         Context.Festivos.Remove(item);
                         await Context.SaveChangesAsync();
-                        await DisplayAlert("Mensaje", " datos borrados correctamente", "OK");
+                        
                     }
-
+                    await DisplayAlert("Mensaje", " datos borrados correctamente", "OK");
                 }
                 else { await DisplayAlert("Alerta", " no existe festivos", "OK"); }
 

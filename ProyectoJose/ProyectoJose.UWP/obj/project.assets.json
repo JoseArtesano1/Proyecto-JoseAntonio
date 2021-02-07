@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.UWP\\ProyectoJose.UWP.csproj",
+      "projectUniqueName": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.UWP\\ProyectoJose.UWP.csproj",
       "projectName": "ProyectoJose.UWP",
-      "projectPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.UWP\\ProyectoJose.UWP.csproj",
+      "projectPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.UWP\\ProyectoJose.UWP.csproj",
       "packagesPath": "C:\\Users\\Jose Antonio\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.UWP\\obj\\",
+      "outputPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -12566,8 +12566,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj": {
-              "projectPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj"
+            "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj": {
+              "projectPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj"
             }
           }
         }

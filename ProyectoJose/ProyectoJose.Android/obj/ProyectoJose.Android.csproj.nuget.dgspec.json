@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj": {}
+    "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj": {}
   },
   "projects": {
-    "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj": {
+    "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj",
+        "projectUniqueName": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj",
         "projectName": "ProyectoJose.Android",
-        "projectPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj",
+        "projectPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\ProyectoJose.Android.csproj",
         "packagesPath": "C:\\Users\\Jose Antonio\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\obj\\",
+        "outputPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj": {
-                "projectPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj"
+              "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj": {
+                "projectPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj": {
+    "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
+        "projectUniqueName": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
         "projectName": "ProyectoJose",
-        "projectPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
+        "projectPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\ProyectoJose.csproj",
         "packagesPath": "C:\\Users\\Jose Antonio\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\obj\\",
+        "outputPath": "D:\\PROYECTO FIN DE CICLO\\ProyectoJoseAntonio\\ProyectoJose\\ProyectoJose\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

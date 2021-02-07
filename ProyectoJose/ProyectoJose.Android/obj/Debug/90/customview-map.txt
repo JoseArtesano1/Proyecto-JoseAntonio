@@ -1,45 +1,45 @@
-@string/appbar_scrolling_view_behavior;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
-@string/appbar_scrolling_view_behavior;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-alpha;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml
-alpha;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoleft.xml
-android.support.design.widget.AppBarLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.AppBarLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
-android.support.design.widget.AppBarLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\shellcontent.xml
-android.support.design.widget.BottomNavigationView;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\bottomtablayout.xml
-android.support.design.widget.CoordinatorLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.CoordinatorLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
-android.support.design.widget.CoordinatorLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\shellcontent.xml
-android.support.design.widget.TabLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
+alpha;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml
+alpha;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
-android.support.v7.widget.RecyclerView;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
-android.support.v7.widget.Toolbar;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
-android.support.v7.widget.Toolbar;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\shellcontent.xml
 android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-cache-path;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
-external-cache-path;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-FrameLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\bottomtablayout.xml
-item;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
-LinearLayout;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\bottomtablayout.xml
-paths;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-resources;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
+FrameLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\bottomtablayout.xml
+item;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
+LinearLayout;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\bottomtablayout.xml
+paths;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\40\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\styles.xml
-set;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml
-set;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromright.xml
-set;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoleft.xml
-set;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoright.xml
-style;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
+set;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml
+set;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromright.xml
+set;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoleft.xml
+set;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoright.xml
+style;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
 style;obj\Debug\90\res\values\styles.xml
-translate;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml
-translate;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromright.xml
-translate;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoleft.xml
-translate;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml
+translate;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml
+translate;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromright.xml
+translate;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoleft.xml
+translate;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose.Android\obj\Debug\90\lp\41\jl\res\layout\rootlayout.xml

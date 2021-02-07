@@ -72,7 +72,6 @@ D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\XamlC.
 D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
 D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
 D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb
-D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
 D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.deps.json
 D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll
 D:\descomprimir\Nube\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ref\ProyectoJose.dll
@@ -151,3 +150,43 @@ D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstand
 D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
 D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
 D:\descomprimir\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb
+D:\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.deps.json
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.dll
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\bin\Debug\netstandard2.0\ProyectoJose.pdb
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csprojAssemblyReference.cache
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CambioCurso.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\CursosPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoCurso.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\NuevoTrabCurso.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Curso\TrabajadorCursoPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\CambioTipoDia.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTipoDia.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\NuevoTrabDia.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TipoDiasPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Dia\TrabajadorDiaPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\CambioEpi.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\EpisPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoEpi.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\NuevoTrabEpi.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Epi\TrabajadorEpiPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\DatosTrabPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\ModInfoTrabajador.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\NuevoTrabajador.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Trabajador\TrabajadoresPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ConsultaRegistroPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\ElementoPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\HomePage.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\LoginPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\MenuPage.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\VistasTrabajo\Usuario\RegistroPag.xaml.g.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfoInputs.cache
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.AssemblyInfo.cs
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.csproj.CoreCompileInputs.cache
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.dll
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ref\ProyectoJose.dll
+D:\PROYECTO FIN DE CICLO\ProyectoJoseAntonio\ProyectoJose\ProyectoJose\obj\Debug\netstandard2.0\ProyectoJose.pdb
